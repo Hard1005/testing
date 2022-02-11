@@ -10,6 +10,7 @@ yet more
 cleanup
 
 something here
+easy solution
 
 fixed
 added features
