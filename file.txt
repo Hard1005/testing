@@ -9,8 +9,7 @@ yet more
 some more code
 yet more
 
-some more code
-yet more
+cleanup
 
 some more code
 yet more
