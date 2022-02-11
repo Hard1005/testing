@@ -9,7 +9,6 @@ yet more
 
 cleanup
 
-something here
 easy solution
 
 fixed
@@ -18,3 +17,5 @@ more stuff added
 
 fixed
 some more code
+
+fixes
