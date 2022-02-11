@@ -9,7 +9,7 @@ yet more
 
 cleanup
 
-some more code
-yet more
+something here
 
 fixed
+added features
